@@ -1,0 +1,11 @@
+{
+    "$schema": "",
+    "build_dependencies": [
+    ],
+    "build_subdirectory": ".",
+    "name": "SlicerTools",
+    "category": "General",
+    "scm_revision": "main",
+    "scm_url": "https://github.com/A2B-Technology-Corporation/SlicerTools",
+    "icon": "https://raw.githubusercontent.com/A2B-Technology-Corporation/SlicerTools/refs/heads/main/icon.png"
+}
