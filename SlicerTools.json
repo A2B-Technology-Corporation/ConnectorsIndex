@@ -4,6 +4,7 @@
     ],
     "build_subdirectory": ".",
     "name": "SlicerTools",
+    "description": "A collection of tools to interact with 3D Slicer.",
     "category": "General",
     "scm_revision": "main",
     "scm_url": "https://github.com/A2B-Technology-Corporation/SlicerTools",
